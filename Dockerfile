@@ -1,4 +1,4 @@
-FROM alpine:3.10.2
+FROM alpine:3.19.1
 
 ARG RELEASE
 
